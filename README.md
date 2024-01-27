@@ -9,30 +9,30 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimzz&label=Profile%20views&color=0e75b6&style=flat" alt="shamimzz" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 We're currently working internationally **Any Domain - Thesis / Research / Project and IOT**
-- 👨‍💻 Portfolio [FinalYearProjectThesisHelp](https://www.facebook.com/FinalYearProjectThesisHelp)
-- 👀 Follow us on Facebook: [Our Facebook Group](https://www.facebook.com/groups/556796896630460)
-- 📫 Get free Consultation Do whatsapp: +8801518307036
-- 📫 How to reach me **thesisprojecthelp@gmail.com**
+ 🌱 We're currently working internationally **Any Domain - Thesis / Research / Project and IOT** <br/>
+ 👨‍💻 Portfolio [FinalYearProjectThesisHelp](https://www.facebook.com/FinalYearProjectThesisHelp)  <br/>
+ 👀 Follow us on Facebook: [Our Facebook Group](https://www.facebook.com/groups/556796896630460)  <br/>
+ 📫 Get free Consultation Do Whatsapp: **+8801518307036** <br/>
+ 📫 How to reach me **thesisprojecthelp@gmail.com** <br/>
 
 <h1 align="center">📌 Our Services 📌 </h1>
 
-🌟 **Thesis / Dissertation Support** 🌟 
-- ✅IOT-Based Project + Thesis
-- ✅AI-Based Project + Thesis 
-- ✅ML-Based Project + Thesis
-- ✅Deep Learning Based Project + Thesis
-- ✅ Any kind of programing language Project.
+🌟 **Thesis / Dissertation Support** 🌟 <br/>
+ ✅IOT-Based Project + Thesis <br/>
+ ✅AI-Based Project + Thesis <br/>
+ ✅ML-Based Project + Thesis <br/>
+ ✅Deep Learning Based Project + Thesis <br/>
+ ✅ Any kind of programing language Project. <br/>
 
-🌟 **Project + Practicum Internship Support** 🌟 
-- ✅Any Management System.
-- ✅Mobile Apps Development Project.
-- ✅Web Application Project.
+🌟 **Project + Practicum Internship Support** 🌟  <br/>
+ ✅Any Management System. <br/>
+ ✅Mobile Apps Development Project. <br/>
+ ✅Web Application Project. <br/>
 
-🌟 **Assignment & Report Writing Services**🌟 
-- ✅Any Subject + Any Topic Related.
-- ✅Plagiarism Free.
-- ✅Revision Granted.
+🌟 **Assignment & Report Writing Services**🌟  <br/>
+ ✅Any Subject + Any Topic Related. <br/>
+ ✅Plagiarism Free. <br/>
+ ✅Revision Granted. <br/>
 
 🖐We are here 24/7 ⏰ for your support 🍀 <br/>
 🔍For query, please text us on whatsapp🔎  <br/>
