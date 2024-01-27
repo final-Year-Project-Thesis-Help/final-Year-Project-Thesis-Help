@@ -38,7 +38,7 @@
 🔍For query, please text us on whatsapp🔎
 ☎️ +8801518307036  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with us:</h3>
 <p align="left">
 
 <a href="https://www.facebook.com/FinalYearProjectThesisHelp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="FinalYearProjectThesisHelp" height="30" width="40" /></a>
