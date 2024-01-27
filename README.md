@@ -15,7 +15,7 @@
 - 📫 Get free Consultation Do whatsapp: +8801518307036
 - 📫 How to reach me **thesisprojecthelp@gmail.com**
 
-<h1 align="center">📌 **Our Services** 📌 </h1>
+<h1 align="center">📌 Our Services 📌 </h1>
 
 🌟 **Thesis / Dissertation Support** 🌟 
 - ✅IOT-Based Project + Thesis
