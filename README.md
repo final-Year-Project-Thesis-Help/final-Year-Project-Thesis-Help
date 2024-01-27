@@ -34,8 +34,8 @@
 - ✅Plagiarism Free.
 - ✅Revision Granted.
 
-🖐We are here 24/7 ⏰ for your support 🍀
-🔍For query, please text us on whatsapp🔎
+🖐We are here 24/7 ⏰ for your support 🍀 <br/>
+🔍For query, please text us on whatsapp🔎  <br/>
 ☎️ +8801518307036  
 
 <h3 align="left">Contact with us:</h3>
