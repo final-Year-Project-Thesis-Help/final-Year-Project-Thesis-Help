@@ -18,11 +18,11 @@
 📌 **Our Services** 📌 
 
 🌟 **Thesis / Dissertation Support** 🌟 
-✅IOT-Based Project + Thesis
-✅AI-Based Project + Thesis 
-✅ML-Based Project + Thesis
-✅Deep Learning Based Project + Thesis
-✅ Any kind of programing language Project.
+- ✅IOT-Based Project + Thesis
+- ✅AI-Based Project + Thesis 
+- ✅ML-Based Project + Thesis
+- ✅Deep Learning Based Project + Thesis
+- ✅ Any kind of programing language Project.
 
 🌟 **Project + Practicum Internship Support** 🌟 
 ✅Any Management System.
