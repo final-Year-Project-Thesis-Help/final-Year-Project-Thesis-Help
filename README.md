@@ -1,7 +1,7 @@
 
 <!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://shamim-99728.web.app/) -->
 <h1 align="center">Hi 👋, Final Year Students</h1>
-<p>🎓Are you a dedicated undergraduate, master's, or Ph.D. student with aspirations for a stellar thesis, research, IoT, practicum, or internship project? Look no further! 🚀</p>
+<p align="center"> Are you a dedicated undergraduate, master's, or Ph.D. student with aspirations for a stellar thesis, research, IoT, practicum, or internship project? Look no further!</p>
 <h3 align="center">🎓 Aiming to offer top-notch service. Dive into expert guidance and support with us. Let's smoothly navigate your academic journey together towards success! 🚀</h3>
 
 <img align="center" alt="coding" width="900" hight="300" src="https://i.ibb.co/5n7mDC6/thesissupport.png"/>
